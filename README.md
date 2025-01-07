@@ -32,7 +32,6 @@ This repos list all the documents migration your java application to azure
 
 ## Cache
 ### Azure Redis Cache
-#### Ehcache
 1) Spring Cache for Redis
 
 ## Hard-Coded Secrets and Connection Strings 
