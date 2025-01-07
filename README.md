@@ -48,19 +48,8 @@ This repos list all the documents migration your java application to azure
 
 ## In Process Session
 ### Use Redis to manage the session
-1) Use Redis for Spring Session
+1) [Use Redis for Spring Session](./Session/Use-Redis-for-Spring-Session.md)
 
 ## Java App Authentication 
 ### AAD
 1) Migration from LDAP to AAD
-
-
-
-
-
-
-
-
-
-
-
