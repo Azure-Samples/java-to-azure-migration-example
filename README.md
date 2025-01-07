@@ -27,9 +27,8 @@ This repos list all the documents migration your java application to azure
 
 ## No-SQL DB
 ### CosmosDB
-1）Enable Cassadra support for CosmosDB
-
-2) Enable Mongo Support to CosmosDB
+1)  Enable Cassadra support for CosmosDB
+1)  Enable Mongo Support to CosmosDB
 
 ## Cache
 ### Azure Redis Cache
